@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="toubiyx.vcxproj" Id="b01bd330-3ac0-49c1-910f-65215003466b" />
+</Solution>
